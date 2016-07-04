@@ -8,8 +8,6 @@ FirePHPCore
 
 This project contains the *FirePHPCore* PHP server library and provides a development environment (see `./workspace/`) for working on *FirePHPCore*.
 
-
-
 Usage
 =====
 
